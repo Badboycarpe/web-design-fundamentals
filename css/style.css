@@ -1,4 +1,18 @@
-body{ 
-background-color: #FF0F39;
+body {
+    background-color: #FF0F39;
+}
 
- }
+.red-box {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    padding: 10px 10px 10px 10px;
+}
+
+.blue-box {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    padding: 10px 10px 10px 10px;
+    margin: 10px 0 0 0;
+}
