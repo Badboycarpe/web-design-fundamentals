@@ -1,14 +1,22 @@
 body {
-    background-color: #308D99;
+    background-color: #C61800;
 }
 
 .container {
+    background-color: #C61800
     width: 800px;
-    border: 1px solid #000000;
+    border: 3px solid #000000;
     padding: 20px;
     margin: 0 auto 0 auto;
 }
 
+header {
+  background-color: #FF4C2C
+}
+h1, h2 {
+  font-family: 'Rock Salt', cursive;
+
+}
 
 /*for main nav*/
 
@@ -56,5 +64,8 @@ li a {
 }
 
 footer {
+    border-top: 1px solid #000000;
     clear: both;
+
+
 }
